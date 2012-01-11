@@ -12,6 +12,10 @@
 
   <project path="build" name="IceColdSandwich/platform_build" remote="github" revision="ics">
     <copyfile src="core/root.mk" dest="Makefile" />
+    <copyfile src="core/root.mk" dest="Makefile" />
+    <copyfile src="target/platform/qcom.mk" dest="hardware/qcom/Android.mk" />
+    <copyfile src="target/platform/qcom.mk" dest="vendor/qcom/Android.mk" />
+    <copyfile src="target/platform/omap.mk" dest="hardware/ti/Android.mk" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="IceColdSandwich/android_bionic" remote="github" revision="ics"/>
