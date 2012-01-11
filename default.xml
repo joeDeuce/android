@@ -33,8 +33,6 @@
   <project path="device/htc/common" name="IceColdSandwich/platform_device_htc_common" remote="github" revision="ics"/>
   <project path="device/htc/msm7x30-common" name="IceColdSandwich/android_device_htc_msm7x30-common" remote="github" revision="ics"/>
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/maguro" name="device/samsung/maguro" />
-  <project path="device/samsung/tuna" name="device/samsung/tuna" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
