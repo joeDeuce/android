@@ -174,7 +174,7 @@
   <project path="hardware/libhardware_legacy" name="IceColdSandwich/android_hardware_libhardware_legacy" remote="github" revision="ics"/>
   <project path="hardware/msm7k" name="IceColdSandwich/android_hardware_msm7k" remote="github" revision="ics"/>
   <project path="hardware/qcom/display" name="IceColdSandwich/android_hardware_qcom_display" remote="github" revision="ics"/>
-  <project path="hardware/qcom/gps" name="IceColdSandwich/platform_hardware_qcom_gps" remote="github" revision="ics"/>
+  <project path="hardware/qcom/gps" name="CyanogenMod/platform_hardware_qcom_gps" remote="github" revision="ics"/>
   <project path="hardware/qcom/media" name="IceColdSandwich/android_hardware_qcom_media" remote="github" revision="ics"/>
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="ics"/>
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
