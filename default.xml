@@ -248,7 +248,7 @@
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" revision="ics"/>
-  <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="master"/>
+  <project path="system/extras/su" name="ChainsDD/su-binary" remote="github" revision="master"/>
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" revision="ics"/>
 
   <project path="vendor/google" name="IceColdSandwich/platform_vendor_google" remote="github" revision="ics"/>
