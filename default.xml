@@ -244,7 +244,7 @@
   <project path="prebuilt" name="platform/prebuilt" revision="ics-mr1-release" />
   <project path="sdk" name="platform/sdk" revision="master" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="IceColdSandwich/android_system_core" remote="github" revision="ics"/>
+  <project path="system/core" name="IceColdSandwich/platform_system_core" remote="github" revision="ics"/>
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" revision="ics"/>
