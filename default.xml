@@ -44,7 +44,7 @@
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="ics"/>
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" />
+  <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" remote="github" revision="ics"/>
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
@@ -183,7 +183,7 @@
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" revision="master" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="github" revision="ics"/>
   <project path="packages/apps/Browser" name="IceColdSandwich/platform_packages_apps_Browser" remote="github" revision="ics"/>
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
@@ -245,7 +245,7 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
   <project path="prebuilt" name="platform/prebuilt" revision="ics-mr1-release" />
   <project path="sdk" name="platform/sdk" revision="master" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" />
+  <project path="system/bluetooth" name="CyanogenMod/android_system_Bluetooth" remote="github" revision="ics"/>
   <project path="system/core" name="IceColdSandwich/platform_system_core" remote="github" revision="ics"/>
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="ics"/>
   <project path="system/media" name="platform/system/media" />
