@@ -245,7 +245,7 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
   <project path="prebuilt" name="platform/prebuilt" revision="ics-mr1-release" />
   <project path="sdk" name="platform/sdk" revision="master" />
-  <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" revision="ics"/>
+  <project path="system/bluetooth" name="IceColdSandwich/android_system_bluetooth" remote="github" revision="ics"/>
   <project path="system/core" name="IceColdSandwich/platform_system_core" remote="github" revision="ics"/>
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="ics"/>
   <project path="system/media" name="platform/system/media" />
