@@ -106,11 +106,13 @@
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
+  <project path="external/lsof" name="CyanogenMod/android_external_lsof" remote="github" revision="ics"/>
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" remote="github" revision="ics"/>
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mesa3d" name="platform/external/mesa3d" />
   <project path="external/mksh" name="platform/external/mksh" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" />
+  <project path="external/nano" name="CyanogenMod/android_external_nano" remote="github" revision="ics" />
   <project path="external/mtpd" name="platform/external/mtpd" />
   <project path="external/netcat" name="platform/external/netcat" />
   <project path="external/netperf" name="platform/external/netperf" />
@@ -120,6 +122,7 @@
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openssl" name="platform/external/openssl" />
   <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="github" revision="ics"/>
+  <project path="external/oprofile" name="CyanogenMod/android_external_oprofile"remote="github" revision="ics" />
   <project path="external/pcre" name="platform/external/pcre" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ping6" name="platform/external/ping6" />
@@ -129,6 +132,7 @@
   <project path="external/qemu" name="platform/external/qemu" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
   <project path="external/quake" name="platform/external/quake" />
+  <project path="external/rsync" name="CyanogenMod/android_external_rsync" remote="github" revision="master" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/skia" name="CyanogenMod/android_external_skia" remote="github" revision="ics"/>
   <project path="external/sonivox" name="platform/external/sonivox" />
