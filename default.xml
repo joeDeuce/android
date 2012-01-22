@@ -23,7 +23,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="platform/dalvik" />
+  <project path="dalvik" name="IceColdSandwich/platform_dalvik" remote="github" revision="ics">
   <project path="development" name="CyanogenMod/android_development" remote="github" revision="ics"/>
   <project path="device/common" name="device/common" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
@@ -79,7 +79,7 @@
   <project path="external/guava" name="platform/external/guava" />
   <project path="external/harfbuzz" name="platform/external/harfbuzz" />
   <project path="external/hyphenation" name="platform/external/hyphenation" />
-  <project path="external/icu4c" name="platform/external/icu4c" />
+  <project path="external/icu4c" name="IceColdSandwich/platform_external_icu4c" remote="github" revision="ics">
   <project path="external/iproute2" name="platform/external/iproute2" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" />
   <project path="external/iptables" name="platform/external/iptables" />
@@ -247,7 +247,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
-  <project path="prebuilt" name="platform/prebuilt" revision="ics-mr1-release" />
+  <project path="prebuilt" name="IceColdSandwich/platform_prebuilt" remote="github" revision="ics">
   <project path="sdk" name="platform/sdk" revision="master" />
   <project path="system/bluetooth" name="IceColdSandwich/android_system_bluetooth" remote="github" revision="ics"/>
   <project path="system/core" name="IceColdSandwich/platform_system_core" remote="github" revision="ics"/>
