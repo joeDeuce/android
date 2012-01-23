@@ -134,7 +134,7 @@
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" remote="github" revision="master" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" remote="github" revision="ics"/>
+  <project path="external/skia" name="IceColdSandwich/android_external_skia" remote="github" revision="ics"/>
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="IceColdSandwich/platform_external_sqlite" remote="github" revision="ics"/>
