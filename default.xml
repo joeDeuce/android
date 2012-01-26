@@ -10,7 +10,7 @@
   <remote  name="github"
           fetch="git://github.com/" />
 
-  <project path="build" name="IceColdSandwich/platform_build" remote="github" revision="ics">
+  <project path="build" name="IceColdSandwich/android_build" remote="github" revision="ics">
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="target/platform/qcom.mk" dest="hardware/qcom/Android.mk" />
