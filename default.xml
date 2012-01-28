@@ -261,8 +261,8 @@
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="icecold" revision="ics" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="icecold" revision="ics"/>
   <project path="system/bluetooth" name="android_system_bluetooth" remote="icecold" revision="ics"/>
-  <project path="prebuilt" name="platform_prebuilt" remote="icecold" revision="ics" />
-  <project path="system/core" name="platform_system_core" remote="icecold" revision="ics"/>
+  <project path="prebuilt" name="android_prebuilt" remote="icecold" revision="ics" />
+  <project path="system/core" name="android_system_core" remote="icecold" revision="ics"/>
 
   <project path="device/htc/ace" name="android_device_htc_ace" remote="icecold" revision="ics" />
   <project path="device/htc/common" name="platform_device_htc_common" remote="icecold" revision="ics" />
