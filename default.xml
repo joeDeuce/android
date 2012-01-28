@@ -241,7 +241,7 @@
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
-  <project path="external/icu4c" name="platform_external_icu4c" remote="icecold" revision="ics" />
+  <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
   <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
   <project path="frameworks/base" name="android_frameworks_base" remote="icecold" revision="ics"/>
