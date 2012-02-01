@@ -26,7 +26,6 @@
     <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
     <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
     <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
-    <project path="development" name="CyanogenMod/android_development" />
     <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
     <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
     <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -240,6 +239,7 @@
 
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
+  <project path="development" name="android_development" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
   <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
