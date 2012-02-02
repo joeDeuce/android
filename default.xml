@@ -39,8 +39,6 @@
     <project path="external/bash" name="CyanogenMod/android_external_bash" />
     <project path="external/bison" name="CyanogenMod/android_external_bison" />
     <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
-    <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" />
-    <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" />
     <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
     <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
     <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
@@ -240,6 +238,8 @@
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
   <project path="development" name="android_development" remote="icecold" revision="ics" />
+  <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="icecold" revision="ics" />
+  <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
   <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
