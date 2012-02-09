@@ -236,7 +236,7 @@
 
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
-  <project path="development" name="platform_development" />
+  <project path="development" name="platform_development" remote="icecold" revision="master" />
   <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="icecold" revision="ics" />
   <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
