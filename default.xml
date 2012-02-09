@@ -61,7 +61,6 @@
     <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
     <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
     <project path="external/flac" name="CyanogenMod/android_external_flac" />
-    <project path="external/freetype" name="CyanogenMod/android_external_freetype" />
     <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
     <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" />
     <project path="external/giflib" name="CyanogenMod/android_external_giflib" />
@@ -240,8 +239,9 @@
   <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="icecold" revision="ics" />
   <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
+  <project path="external/freetype" name="platform_external_freetype" remote="icecold" revision="master" />
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
-  <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
+  <project path="external/skia" name="platform_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
   <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics"/>
   <project path="frameworks/base" name="android_frameworks_base" remote="icecold" revision="ics"/>
