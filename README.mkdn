@@ -15,15 +15,10 @@ Then to sync up:
 To build:
 
     . build/envsetup.sh
-    lunch lord_ace-eng
+    lunch htc_ace-eng
     make -j4 lord
 
 OR
 
     . vendor/lord/build.sh
 but change the script to your installed ccache path
-
-Building with Linaro 4.6:
-
-
-    make -j4 lord TARGET_TOOLS_PREFIX=prebuilt/linux-x86/toolchain/arm-eabi-4.6.3/bin/arm-linux-androideabi-
