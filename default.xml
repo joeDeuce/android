@@ -224,6 +224,10 @@
   <project path="vendor/google" name="platform_vendor_google" remote="icecold" revision="ics"/>
   <project path="vendor/htc" name="platform_vendor_htc" remote="icecold" revision="ics"/>
   <project path="vendor/lord" name="platform_vendor_lord" remote="icecold" revision="ics"/>
+  <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="icecold" revision="ics" />
+  <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="icecold" revision="ics" />
+
+     
 
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
