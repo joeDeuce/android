@@ -159,6 +159,7 @@
     <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
     <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="master" />
     <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
+    <project path="libcore" name="CyanogenMod/android_libcore" />
     <project path="ndk" name="CyanogenMod/android_ndk" />
     <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="master" />
     <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
@@ -227,7 +228,6 @@
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
   <project path="development" name="android_development" remote="icecold" revision="ics" />
-  <project path="libcore" name="android_libcore" remote="icecold" revision="ics" />
   <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="icecold" revision="ics" />
   <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
