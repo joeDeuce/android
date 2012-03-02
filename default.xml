@@ -218,7 +218,7 @@
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="gingerbread"/>
-  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github" revision="gingerbread"/>
+  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github" revision="ics"/>
 
   <project path="vendor/google" name="platform_vendor_google" remote="icecold" revision="ics"/>
   <project path="vendor/htc" name="platform_vendor_htc" remote="icecold" revision="ics"/>
