@@ -132,7 +132,6 @@
     <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="aosp" revision="master" />
     <project path="external/tinyxml" name="CyanogenMod/android_external_tinyxml" />
     <project path="external/tremolo" name="CyanogenMod/android_external_tremolo" />
-    <project path="external/v8" name="CyanogenMod/android_external_v8" />
     <project path="external/valgrind" name="CyanogenMod/android_external_valgrind" />
     <project path="external/webp" name="CyanogenMod/android_external_webp" />
     <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="master" />
@@ -243,6 +242,7 @@
   <project path="external/skia" name="platform_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
       <project path="external/stlport" name="android_external_stlport" remote="icecold" revision="ics"/>
+  <project path="external/v8" name="android_external_v8" remote="icecold" revision="ics_chocolate_M8260AAABQNLZA30136" />
   <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics"/>
   <project path="frameworks/base" name="android_frameworks_base" remote="icecold" revision="aokp"/>
   <project path="frameworks/compile/slang" name="android_frameworks_compile_slang" remote="icecold" revision="ics" />
