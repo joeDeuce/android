@@ -25,7 +25,6 @@
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="master" />
     <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
     <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-    <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
     <project path="device/common" name="device/common" remote="aosp" revision="master" />
     <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="master" />
     <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="master" />
@@ -230,6 +229,7 @@
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
   <project path="development" name="android_development" remote="icecold" revision="ics" />
+      <project path="bootable/recovery" name="android_bootable_recovery" remote="icecold" revision="ics" />
   <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="icecold" revision="ics" />
   <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
@@ -238,7 +238,7 @@
       <project path="external/gtest" name="android_external_gtest" remote="icecold" revision="ics" />
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
   <project path="external/jpeg" name="platform_external_jpeg" remote="icecold" revision="ics"  />
-      <project path="external/libpng" name="external_libpng" remote="icecold" revision="master" />
+  <project path="external/libpng" name="android_external_libpng" remote="icecold" revision="ics_linaro" />
   <project path="external/skia" name="platform_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
       <project path="external/stlport" name="android_external_stlport" remote="icecold" revision="ics"/>
