@@ -25,6 +25,7 @@
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="master" />
     <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
     <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
+    <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
     <project path="device/common" name="device/common" remote="aosp" revision="master" />
     <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="master" />
     <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="master" />
@@ -229,7 +230,6 @@
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
   <project path="development" name="android_development" remote="icecold" revision="ics" />
-      <project path="bootable/recovery" name="android_bootable_recovery" remote="icecold" revision="ics" />
   <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="icecold" revision="ics" />
   <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
@@ -250,7 +250,7 @@
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="icecold" revision="ics"/>
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="icecold" revision="ics"/>
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="icecold" revision="ics"/>
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="icecold" revision="ics_caf"/>
+  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="icecold" revision="ics_chocolate"/>
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="icecold" revision="ics"/>
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="icecold" revision="ics" />
