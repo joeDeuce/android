@@ -227,7 +227,7 @@
   <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="icecold" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="icecold" revision="ics" />
   <project path="vendor/qcom/opensource/v8" name="platform/vendor/qcom-opensource/v8" remote="caf" revision="ics_chocolate"/>
-  <project path="vendor/qcom/vendor/proprietary" name="platform_vendor_qcom_proprietary" remote="icecold" revision="ics"/>
+  <project path="vendor/qcom/proprietary" name="platform_vendor_qcom_proprietary" remote="icecold" revision="ics"/>
 
      
 
