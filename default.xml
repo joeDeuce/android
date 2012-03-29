@@ -47,49 +47,50 @@
     <project path="external/bash" name="CyanogenMod/android_external_bash" />
     <project path="external/bison" name="CyanogenMod/android_external_bison" />
     <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
-    <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
-    <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
-    <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
-    <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
-    <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
-    <project path="external/collada" name="platform/external/collada" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
-    <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" />
-    <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
-    <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" />
-    <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" />
-    <project path="external/easymock" name="CyanogenMod/android_external_easymock" />
+    <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" remote="aosp" revision="master" />
+    <project path="external/bouncycastle" name="platform/external/bouncycastle" remote="aosp" revision="master" />
+    <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="master" />
+    <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="master" />
+    <project path="external/chromium" name="platform/external/chromium" remote="aosp" revision="master" />
+    <project path="external/clang" name="platform_external_clang" remote="aosp" revision="master" />
+    <project path="external/collada" name="platform/external/collada" remote="aosp" revision="master" />
+    <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="master" />
+    <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="master" />
+    <project path="external/dnsmasq" name="platform/external/dnsmasq" remote="aosp" revision="master" />
+    <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="master" />
+    <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="master" />
+    <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="aosp" revision="master" />
+    <project path="external/easymock" name="platform/external/easymock" remote="aosp" revision="master" />
     <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="master" />
-    <project path="external/elfutils" name="CyanogenMod/android_external_elfutils" />
-    <project path="external/embunit" name="CyanogenMod/android_external_embunit" />
-    <project path="external/emma" name="CyanogenMod/android_external_emma" />
-    <project path="external/esd" name="CyanogenMod/android_external_esd" />
-    <project path="external/expat" name="CyanogenMod/android_external_expat" />
-    <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
-    <project path="external/flac" name="CyanogenMod/android_external_flac" />
-    <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
-    <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" />
-    <project path="external/giflib" name="CyanogenMod/android_external_giflib" />
+    <project path="external/elfutils" name="platform/external/elfutils" remote="aosp" revision="master" />
+    <project path="external/embunit" name="platform/external/embunit" remote="aosp" revision="master" />
+    <project path="external/emma" name="platform/external/emma" remote="aosp" revision="master" />
+    <project path="external/esd" name="platform/external/esd" remote="aosp" revision="master" />
+    <project path="external/expat" name="platform/external/expat" remote="aosp" revision="master" />
+    <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="master" />
+    <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="master" />
+    <project path="external/flac" name="platform/external/flac" remote="aosp" revision="master" />
+    <project path="external/fsck_msdos" name="platform/external/fsck_msdos" remote="aosp" revision="master" />
+    <project path="external/genext2fs" name="platform/external/genext2fs" remote="aosp" revision="master" />
+    <project path="external/giflib" name="platform/external/giflib" remote="aosp" revision="master" />
     <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/grub" name="platform/external/grub" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="external/guava" name="CyanogenMod/android_external_guava" />
+    <project path="external/guava" name="platform/external/guava" remote="aosp" revision="master" />
     <project path="external/harfbuzz" name="platform/external/harfbuzz" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/hyphenation" name="platform/external/hyphenation" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="external/iproute2" name="CyanogenMod/android_external_iproute2" />
-    <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" />
-    <project path="external/iptables" name="CyanogenMod/android_external_iptables" />
+    <project path="external/iproute2" name="platform/external/iproute2" remote="aosp" revision="master" />
+    <project path="external/ipsec-tools" name="platform/external/ipsec-tools" remote="aosp" revision="master" />
+    <project path="external/iptables" name="platform/external/iptables" remote="aosp" revision="master"/>
     <project path="external/javasqlite" name="platform/external/javasqlite" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/javassist" name="platform/external/javassist" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
-    <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
+    <project path="external/jdiff" name="platform/external/jdiff" remote="aosp" revision="master" />
+    <project path="external/jhead" name="platform/external/jhead" remote="aosp" revision="master" />
     <project path="external/jsilver" name="platform/external/jsilver" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
-    <project path="external/junit" name="CyanogenMod/android_external_junit" />
-    <project path="external/kernel-headers" name="CyanogenMod/android_external_kernel-headers" />
-    <project path="external/libffi" name="CyanogenMod/android_external_libffi" />
-    <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
+    <project path="external/jsr305" name="platform/external/jsr305" remote="aosp" revision="master" />
+    <project path="external/junit" name="platform/external/junit" remote="aosp" revision="master" />
+    <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="master" />
+    <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="master" />
+    <project path="external/libgsm" name="platform/external/libgsm" remote="aosp" revision="master" />
     <project path="external/liblzf" name="platform/external/liblzf" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
     <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
@@ -165,19 +166,19 @@
     <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
+    <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
     <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
     <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
     <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
-    <project path="libcore" name="CyanogenMod/android_libcore" />
-    <project path="ndk" name="CyanogenMod/android_ndk" />
+    <project path="libcore" name="platform/libcore" remote="aosp" revision="master" />
+    <project path="ndk" name="platform/ndk" remote="aosp" revision="master"/>
     <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
-    <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
-    <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
+    <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" remote="aosp" revision="master" />
+    <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" remote="aosp" revision="master" />
+    <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" revision="master" />
     <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
     <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
@@ -193,7 +194,7 @@
     <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
     <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
     <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" remote="aosp" revision="master" />
-    <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
+    <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="master" />
     <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
@@ -226,7 +227,6 @@
 
     <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
     <project path="sdk" name="platform/sdk" remote="aosp" revision="master"/>
-    <project path="system/extras" name="CyanogenMod/android_system_extras" />
     <project path="system/media" name="CyanogenMod/android_system_media" />
     <project path="system/netd" name="CyanogenMod/android_system_netd" />
     <project path="system/su" name="CyanogenMod/android_system_su" />
@@ -292,6 +292,7 @@
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="icecold" revision="ics" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="icecold" revision="ics"/>
   <project path="system/bluetooth" name="android_system_bluetooth" remote="icecold" revision="ics"/>
+  <project path="system/extras" name="IceColdSandwich/android_system_extras" remote="icecold" revision="ics-devel" />
   <project path="prebuilt" name="platform_prebuilt" remote="icecold" revision="ics-devel" />
   <project path="system/core" name="android_system_core" remote="icecold" revision="ics"/>
 
