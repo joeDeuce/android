@@ -40,7 +40,7 @@
     <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-    <project path="external/apache-qp" name="platform/external/apache-qp" />
+    <project path="external/apache-qp" name="platform/external/apache-qp" remote="aosp" revision="master" />
     <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
     <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/astl" name="CyanogenMod/android_external_astl" />
