@@ -225,7 +225,7 @@
     <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="master" />
 
     <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-    <project path="sdk" name="platform/sdk" />
+    <project path="sdk" name="platform/sdk" remote="aosp" revision="master"/>
     <project path="system/extras" name="CyanogenMod/android_system_extras" />
     <project path="system/media" name="CyanogenMod/android_system_media" />
     <project path="system/netd" name="CyanogenMod/android_system_netd" />
