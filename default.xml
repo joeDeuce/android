@@ -60,7 +60,7 @@
     <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" />
     <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" />
     <project path="external/easymock" name="CyanogenMod/android_external_easymock" />
-    <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
+    <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="master" />
     <project path="external/elfutils" name="CyanogenMod/android_external_elfutils" />
     <project path="external/embunit" name="CyanogenMod/android_external_embunit" />
     <project path="external/emma" name="CyanogenMod/android_external_emma" />
