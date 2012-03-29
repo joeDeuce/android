@@ -52,7 +52,6 @@
     <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="master" />
     <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="master" />
     <project path="external/chromium" name="platform/external/chromium" remote="aosp" revision="master" />
-    <project path="external/clang" name="platform_external_clang" remote="aosp" revision="master" />
     <project path="external/collada" name="platform/external/collada" remote="aosp" revision="master" />
     <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="master" />
     <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="master" />
