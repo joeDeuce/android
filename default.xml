@@ -129,7 +129,6 @@
     <project path="external/ppp" name="CyanogenMod/android_external_ppp" />
     <project path="external/proguard" name="CyanogenMod/android_external_proguard" />
     <project path="external/protobuf" name="CyanogenMod/android_external_protobuf" />
-    <project path="external/qemu" name="CyanogenMod/android_external_qemu" />
     <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/quake" name="CyanogenMod/android_external_quake" />
     <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="master" />
@@ -259,6 +258,7 @@
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
   <project path="external/jpeg" name="people/tomgall/libjpeg-turbo/libjpeg-turbo" remote="linaro" revision="android" />
   <project path="external/libpng" name="external_libpng" remote="icecold" revision="master" />
+  <project path="external/qemu" name="platform_external_qemu" remote="icecold" revision="master" />
   <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
       <project path="external/stlport" name="android_external_stlport" remote="icecold" revision="ics"/>
