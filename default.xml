@@ -226,7 +226,7 @@
     <project path="sdk" name="platform/sdk" remote="aosp" revision="master"/>
     <project path="system/media" name="CyanogenMod/android_system_media" />
     <project path="system/netd" name="CyanogenMod/android_system_netd" />
-    <project path="system/su" name="CyanogenMod/android_system_su" />
+    <project path="system/su" name="platform_system_su" remote="icecold" revision="ics" />
     <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
