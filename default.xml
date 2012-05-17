@@ -39,6 +39,7 @@
     <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="master" />
     <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="master" />
     <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="master" />
+    <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="master" />
     <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="master" />
     <project path="external/apache-qp" name="platform/external/apache-qp" remote="aosp" revision="master" />
     <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
@@ -52,6 +53,7 @@
     <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="master" />
     <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="master" />
     <project path="external/collada" name="platform/external/collada" remote="aosp" revision="master" />
+    <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="master" />
     <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="master" />
     <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="master" />
     <project path="external/dnsmasq" name="platform/external/dnsmasq" remote="aosp" revision="master" />
@@ -102,7 +104,6 @@
     <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" />
     <project path="external/libyuv" name="platform/external/libyuv" remote="aosp" revision="master" />
     <project path="external/libxslt" name="platform/external/libxslt" remote="aosp" revision="master" />
-    <project path="external/llvm" name="platform/external/llvm" remote="aosp" revision="master" />
     <project path="external/lohit-fonts" name="platform/external/lohit-fonts" remote="aosp" revision="master" />
     <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
     <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
@@ -266,10 +267,12 @@
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
   <project path="external/jpeg" name="people/tomgall/libjpeg-turbo/libjpeg-turbo" remote="linaro" revision="android" />
   <project path="external/libpng" name="external_libpng" remote="icecold" revision="master" />
+  <project path="external/llvm" name="platform_external_llvm" remote="icecold" revision="ics-devel" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="master" />
   <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
   <project path="external/stlport" name="android_external_stlport" remote="icecold" revision="ics"/>
+  <project path="external/tremolo" name="platform_external_tremolo" remote="icecold" revision="ics-devel" />
   <project path="external/v8" name="platform_external_v8" remote="icecold" revision="ics_chocolate-caf" />
   <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics"/>
   <project path="external/zlib" name="platform_external_zlib" remote="icecold" revision="ics-devel"/>
