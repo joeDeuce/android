@@ -147,7 +147,6 @@
     <project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" />
     <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="aosp" revision="master" />
     <project path="external/tinyxml" name="CyanogenMod/android_external_tinyxml" />
-    <project path="external/tremolo" name="CyanogenMod/android_external_tremolo" />
     <project path="external/valgrind" name="CyanogenMod/android_external_valgrind" />
     <project path="external/webp" name="CyanogenMod/android_external_webp" />
     <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="master" />
