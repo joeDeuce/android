@@ -127,14 +127,14 @@
     <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="master" />
     <project path="external/ping" name="platform/external/ping" remote="aosp" revision="master" />
     <project path="external/ping6" name="platform/external/ping6" remote="aosp" revision="master" />
-    <project path="external/ppp" name="platfrom/external/ppp" remote="aosp" revision="master" />
+    <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="master" />
     <project path="external/proguard" name="platform/external/proguard" remote="aosp" revision="master" />
     <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="master" />
     <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" remote="aosp" revision="master" />
     <project path="external/quake" name="platform/external/quake" remote="aosp" revision="master" />
     <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="master" />
     <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
-    <project path="external/safe-iop" name="platform/android/external/safe-iop" remote="aosp" revision="master" />
+    <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="master" />
     <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="master" />
     <project path="external/sonivox" name="platform/external/sonivox" remote="aosp" revision="master" />
     <project path="external/speex" name="platform/external/speex"  remote="aosp" revision="master"/>
@@ -143,9 +143,9 @@
     <project path="external/strace" name="CyanogenMod/android_external_strace" />
     <project path="external/svox" name="platform/external/svox" remote="aosp" revision="master" />
     <project path="external/tagsoup" name="platform/external/tagsoup" remote="aosp" revision="master" />
-    <project path="external/tcpdump" name="platform/external_tcpdump" remote="aosp" revision="master" />
+    <project path="external/tcpdump" name="platform/external/tcpdump" remote="aosp" revision="master" />
     <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="aosp" revision="master" />
-    <project path="external/tinyxml" name="platform/external_tinyxml" remote="aosp" revision="master" />
+    <project path="external/tinyxml" name="platform/external/tinyxml" remote="aosp" revision="master" />
     <project path="external/valgrind" name="platform/external/valgrind" remote="aosp" revision="master" />
     <project path="external/webp" name="platform/external/webp" remote="aosp" revision="master" />
     <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="master" />
@@ -193,7 +193,7 @@
     <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
     <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="master" />
     <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="master" />
-    <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
+    <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer"  remote="aosp" revision="master" />
     <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="master" />
     <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" remote="aosp" revision="master" />
     <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="master" />
