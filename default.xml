@@ -153,7 +153,7 @@
     <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
     <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="master" />
     <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
-    <project path="external/yaffs2" name="platform/external/yaffs2" remote="aosp" revision="master" />
+    <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
     <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="master" />
     <project path="frameworks/ex" name="platform/frameworks/ex" remote="aosp" revision="master" />
     <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="master" />
