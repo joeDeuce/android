@@ -96,7 +96,6 @@
     <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
     <project path="external/libnl-headers" name="platform/external/libnl-headers" remote="aosp" revision="master" />
     <project path="external/libpcap" name="CyanogenMod/android_external_libpcap" />
-    <project path="external/libphonenumber" name="platform/external/libphonenumber" remote="aosp" revision="master" />
     <project path="external/libselinux" name="platform/external/libselinux" remote="aosp" revision="master" />
     <project path="external/libsepol" name="platform/external/libsepol" remote="aosp" revision="master" />
     <project path="external/libusb" name="platform/external/libusb" remote="aosp" revision="master" />
@@ -157,7 +156,6 @@
     <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
     <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="master" />
     <project path="frameworks/ex" name="platform/frameworks/ex" remote="aosp" revision="master" />
-    <project path="frameworks/media/libvideoeditor" name="platform/frameworks/media/libvideoeditor" remote="aosp" revision="master" />
     <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="master" />
     <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" remote="aosp" revision="master" />
     <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" remote="aosp" revision="master" />
@@ -265,6 +263,7 @@
   <project path="external/gtest" name="android_external_gtest" remote="icecold" revision="ics" />
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
   <project path="external/jpeg" name="people/tomgall/libjpeg-turbo/libjpeg-turbo" remote="linaro" revision="android" />
+  <project path="external/libphonenumber" name="platform/external/libphonenumber" remote="icecold" revision="ics_chocolate-caf" />
   <project path="external/libpng" name="external_libpng" remote="icecold" revision="master" />
   <project path="external/llvm" name="platform_external_llvm" remote="icecold" revision="ics-devel" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="master" />
@@ -278,6 +277,7 @@
   <project path="frameworks/base" name="android_frameworks_base" remote="icecold" revision="aokp"/>
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="icecold" revision="ics" />
   <project path="frameworks/compile/slang" name="android_frameworks_compile_slang" remote="icecold" revision="ics" />
+  <project path="frameworks/media/libvideoeditor" name="platform/frameworks/media/libvideoeditor" remote="icecold" revision="ics_chocolate-caf" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="icecold" revision="ics"/>
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="icecold" revision="ics"/>
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="icecold" revision="ics"/>
