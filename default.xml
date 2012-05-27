@@ -42,12 +42,12 @@
     <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="master" />
     <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="master" />
     <project path="external/apache-qp" name="platform/external/apache-qp" remote="aosp" revision="master" />
-    <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
+    <project path="external/apache-http" name="platform/external/apache-http" remote="aosp" revision="master" />
     <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="master" />
-    <project path="external/astl" name="CyanogenMod/android_external_astl" />
+    <project path="external/astl" name="platform/external/astl" remote="aosp" revision="master" />
     <project path="external/bash" name="CyanogenMod/android_external_bash" />
-    <project path="external/bison" name="CyanogenMod/android_external_bison" />
-    <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
+    <project path="external/bison" name="platform/external/bison" remote="aosp" revision="master" />
+    <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="master" />
     <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" remote="aosp" revision="master" />
     <project path="external/bouncycastle" name="platform/external/bouncycastle" remote="aosp" revision="master" />
     <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="master" />
@@ -93,14 +93,14 @@
     <project path="external/libgsm" name="platform/external/libgsm" remote="aosp" revision="master" />
     <project path="external/liblzf" name="platform/external/liblzf" remote="aosp" revision="master" />
     <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
-    <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
+    <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="aosp" revision="master" />
     <project path="external/libnl-headers" name="platform/external/libnl-headers" remote="aosp" revision="master" />
-    <project path="external/libpcap" name="CyanogenMod/android_external_libpcap" />
+    <project path="external/libpcap" name="platform/external/libpcap" remote="aosp" revision="master" />
     <project path="external/libselinux" name="platform/external/libselinux" remote="aosp" revision="master" />
     <project path="external/libsepol" name="platform/external/libsepol" remote="aosp" revision="master" />
     <project path="external/libusb" name="platform/external/libusb" remote="aosp" revision="master" />
     <project path="external/libusb-compat" name="platform/external/libusb-compat" remote="aosp" revision="master" />
-    <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" />
+    <project path="external/libvpx" name="platform/external/libvpx" remote="aosp" revision="master" />
     <project path="external/libyuv" name="platform/external/libyuv" remote="aosp" revision="master" />
     <project path="external/libxslt" name="platform/external/libxslt" remote="aosp" revision="master" />
     <project path="external/lohit-fonts" name="platform/external/lohit-fonts" remote="aosp" revision="master" />
@@ -110,48 +110,48 @@
     <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="master" />
     <project path="external/mksh" name="platform/external/mksh" remote="aosp" revision="master" />
     <project path="external/mockwebserver" name="platform/external/mockwebserver" remote="aosp" revision="master" />
-    <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" />
+    <project path="external/mtpd" name="platform/external/mtpd" remote="aosp" revision="master" />
     <project path="external/nano" name="CyanogenMod/android_external_nano" />
-    <project path="external/netcat" name="CyanogenMod/android_external_netcat" />
-    <project path="external/netperf" name="CyanogenMod/android_external_netperf" />
-    <project path="external/neven" name="CyanogenMod/android_external_neven" />
-    <project path="external/nist-sip" name="CyanogenMod/android_external_nist-sip" />
+    <project path="external/netcat" name="platform/external/netcat" remote="aosp" revision="master" />
+    <project path="external/netperf" name="platform/external/netperf" remote="aosp" revision="master" />
+    <project path="external/neven" name="platform/external/neven" remote="aosp" revision="master" />
+    <project path="external/nist-sip" name="platform/external/nist-sip" remote="aosp" revision="master" />
     <project path="external/node-sqlite-async" name="platform/external/node-sqlite-async" remote="caf" revision="ics_chocolate" />
     <project path="external/node-sqlite-sync" name="platform/external/node-sqlite-sync" remote="caf" revision="ics_chocolate" />
     <project path="external/node" name="platform/external/node" remote="caf" revision="ics_chocolate" />
-    <project path="external/oauth" name="CyanogenMod/android_external_oauth" />
+    <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="master" />
     <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="master" />
-    <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
+    <project path="external/openssl" name="platform/external/openssl" remote="aosp" revision="master" />
     <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" />
-    <project path="external/oprofile" name="CyanogenMod/android_external_oprofile" />
+    <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="master" />
     <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="master" />
-    <project path="external/ping" name="CyanogenMod/android_external_ping" />
+    <project path="external/ping" name="platform/external/ping" remote="aosp" revision="master" />
     <project path="external/ping6" name="platform/external/ping6" remote="aosp" revision="master" />
-    <project path="external/ppp" name="CyanogenMod/android_external_ppp" />
-    <project path="external/proguard" name="CyanogenMod/android_external_proguard" />
-    <project path="external/protobuf" name="CyanogenMod/android_external_protobuf" />
+    <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="master" />
+    <project path="external/proguard" name="platform/external/proguard" remote="aosp" revision="master" />
+    <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="master" />
     <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" remote="aosp" revision="master" />
-    <project path="external/quake" name="CyanogenMod/android_external_quake" />
+    <project path="external/quake" name="platform/external/quake" remote="aosp" revision="master" />
     <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="master" />
     <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
-    <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" />
+    <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="master" />
     <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="master" />
-    <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
-    <project path="external/speex" name="CyanogenMod/android_external_speex" />
-    <project path="external/srec" name="CyanogenMod/android_external_srec" />
+    <project path="external/sonivox" name="platform/external/sonivox" remote="aosp" revision="master" />
+    <project path="external/speex" name="platform/external/speex"  remote="aosp" revision="master"/>
+    <project path="external/srec" name="platform/external/srec" remote="aosp" revision="master" />
     <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="master" />
     <project path="external/strace" name="CyanogenMod/android_external_strace" />
-    <project path="external/svox" name="CyanogenMod/android_external_svox" />
-    <project path="external/tagsoup" name="CyanogenMod/android_external_tagsoup" />
-    <project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" />
+    <project path="external/svox" name="platform/external/svox" remote="aosp" revision="master" />
+    <project path="external/tagsoup" name="platform/external/tagsoup" remote="aosp" revision="master" />
+    <project path="external/tcpdump" name="platform/external/tcpdump" remote="aosp" revision="master" />
     <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="aosp" revision="master" />
-    <project path="external/tinyxml" name="CyanogenMod/android_external_tinyxml" />
-    <project path="external/valgrind" name="CyanogenMod/android_external_valgrind" />
-    <project path="external/webp" name="CyanogenMod/android_external_webp" />
+    <project path="external/tinyxml" name="platform/external/tinyxml" remote="aosp" revision="master" />
+    <project path="external/valgrind" name="platform/external/valgrind" remote="aosp" revision="master" />
+    <project path="external/webp" name="platform/external/webp" remote="aosp" revision="master" />
     <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="master" />
     <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
     <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
-    <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
+    <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="master" />
     <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
     <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
     <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="master" />
@@ -189,20 +189,20 @@
     <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="master" />
     <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="master" />
     <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="master" />
-    <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
+    <project path="packages/apps/Stk" name="platform/packages/apps/Stk" remote="aosp" revision="master" />
     <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
-    <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
+    <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="master" />
     <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="master" />
-    <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
-    <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
+    <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer"  remote="aosp" revision="master" />
+    <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="master" />
     <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" remote="aosp" revision="master" />
     <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="master" />
-    <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
-    <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
-    <project path="packages/providers/DrmProvider" name="CyanogenMod/android_packages_providers_DrmProvider" />
-    <project path="packages/providers/GoogleContactsProvider" name="CyanogenMod/android_packages_providers_GoogleContactsProvider" />
-    <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
-    <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
+    <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" remote="aosp" revision="master" />
+    <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" remote="aosp" revision="master" />
+    <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" remote="aosp" revision="master" />
+    <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" remote="aosp" revision="master" />
+    <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" remote="aosp" revision="master" />
+    <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" remote="aosp" revision="master" />
     <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" remote="aosp" revision="master" />
     <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" remote="aosp" revision="master" />
     <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" remote="aosp" revision="master" />
@@ -227,7 +227,7 @@
 
     <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
     <project path="sdk" name="platform/sdk" remote="aosp" revision="master"/>
-    <project path="system/media" name="CyanogenMod/android_system_media" />
+    <project path="system/media" name="platform/system/media" remote="aosp" revision="master" />
     <project path="system/netd" name="CyanogenMod/android_system_netd" />
     <project path="system/su" name="platform_system_su" remote="icecold" revision="ics" />
     <project path="system/vold" name="CyanogenMod/android_system_vold" />
