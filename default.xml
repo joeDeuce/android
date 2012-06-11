@@ -126,7 +126,7 @@
     <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="master" />
     <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="master" />
     <project path="external/ping" name="CyanogenMod/android_external_ping" />
-    <project path="external/ping6" name="CyanogenMod/android_external_ping6" remote="aosp" revision="master" />
+    <project path="external/ping6" name="CyanogenMod/android_external_ping6" />
     <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="master" />
     <project path="external/proguard" name="platform/external/proguard" remote="aosp" revision="master" />
     <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="master" />
@@ -136,7 +136,7 @@
     <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
     <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="master" />
     <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="master" />
-    <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" remote="aosp" revision="master" />
+    <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
     <project path="external/speex" name="platform/external/speex"  remote="aosp" revision="master"/>
     <project path="external/srec" name="platform/external/srec" remote="aosp" revision="master" />
     <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="master" />
