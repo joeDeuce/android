@@ -56,14 +56,14 @@
     <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="master" />
     <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="master" />
     <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="master" />
-    <project path="external/dnsmasq" name="platform/external/dnsmasq" remote="aosp" revision="master" />
+    <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
     <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="master" />
     <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="master" />
     <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="aosp" revision="master" />
     <project path="external/easymock" name="platform/external/easymock" remote="aosp" revision="master" />
     <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="master" />
     <project path="external/elfutils" name="platform/external/elfutils" remote="aosp" revision="master" />
-    <project path="external/embunit" name="platform/external/embunit" remote="aosp" revision="master" />
+    <project path="external/embunit" name="CyanogenMod/android_external_embunit" />
     <project path="external/emma" name="platform/external/emma" remote="aosp" revision="master" />
     <project path="external/esd" name="platform/external/esd" remote="aosp" revision="master" />
     <project path="external/expat" name="platform/external/expat" remote="aosp" revision="master" />
@@ -121,12 +121,12 @@
     <project path="external/node" name="platform/external/node" remote="caf" revision="ics_chocolate" />
     <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="master" />
     <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="master" />
-    <project path="external/openssl" name="platform/external/openssl" remote="aosp" revision="master" />
+    <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
     <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" />
     <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="master" />
     <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="master" />
-    <project path="external/ping" name="platform/external/ping" remote="aosp" revision="master" />
-    <project path="external/ping6" name="platform/external/ping6" remote="aosp" revision="master" />
+    <project path="external/ping" name="CyanogenMod/android_external_ping" />
+    <project path="external/ping6" name="CyanogenMod/android_external_ping6" remote="aosp" revision="master" />
     <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="master" />
     <project path="external/proguard" name="platform/external/proguard" remote="aosp" revision="master" />
     <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="master" />
@@ -136,7 +136,7 @@
     <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
     <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="master" />
     <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="master" />
-    <project path="external/sonivox" name="platform/external/sonivox" remote="aosp" revision="master" />
+    <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" remote="aosp" revision="master" />
     <project path="external/speex" name="platform/external/speex"  remote="aosp" revision="master"/>
     <project path="external/srec" name="platform/external/srec" remote="aosp" revision="master" />
     <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="master" />
