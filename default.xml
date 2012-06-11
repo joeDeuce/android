@@ -268,7 +268,7 @@
   <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics"/>
   <project path="external/zlib" name="platform_external_zlib" remote="icecold" revision="ics-devel"/>
   <project path="frameworks/base" name="android_frameworks_base" remote="icecold" revision="aokp"/>
-  <project path="frameworks/ex" name="platform_frameworks_ex" remote="icecold" revision="ice-devel" />
+  <project path="frameworks/ex" name="platform_frameworks_ex" remote="icecold" revision="ics-devel" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="icecold" revision="ics" />
   <project path="frameworks/compile/slang" name="android_frameworks_compile_slang" remote="icecold" revision="ics" />
   <project path="frameworks/media/libvideoeditor" name="platform_frameworks_media_libvideoeditor" remote="icecold" revision="ics_chocolate-caf" />
