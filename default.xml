@@ -138,7 +138,6 @@
     <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="master" />
     <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
     <project path="external/speex" name="platform/external/speex"  remote="aosp" revision="master"/>
-    <project path="external/srec" name="platform/external/srec" remote="aosp" revision="master" />
     <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="master" />
     <project path="external/strace" name="CyanogenMod/android_external_strace" />
     <project path="external/svox" name="platform/external/svox" remote="aosp" revision="master" />
@@ -262,6 +261,7 @@
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="master" />
   <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
+  <project path="external/srec" name="platform_external_srec" remote="icecold" revision="ics-devel" />
   <project path="external/stlport" name="android_external_stlport" remote="icecold" revision="ics"/>
   <project path="external/tremolo" name="platform_external_tremolo" remote="icecold" revision="ics-devel" />
   <project path="external/v8" name="platform_external_v8" remote="icecold" revision="ics_chocolate-caf" />
