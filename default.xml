@@ -59,7 +59,6 @@
     <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
     <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="master" />
     <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="master" />
-    <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="aosp" revision="master" />
     <project path="external/easymock" name="platform/external/easymock" remote="aosp" revision="master" />
     <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="master" />
     <project path="external/elfutils" name="platform/external/elfutils" remote="aosp" revision="master" />
@@ -104,7 +103,6 @@
     <project path="external/libyuv" name="platform/external/libyuv" remote="aosp" revision="master" />
     <project path="external/libxslt" name="platform/external/libxslt" remote="aosp" revision="master" />
     <project path="external/lohit-fonts" name="platform/external/lohit-fonts" remote="aosp" revision="master" />
-    <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
     <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
     <project path="external/markdown" name="platform/external/markdown" remote="aosp" revision="master" />
     <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="master" />
@@ -118,12 +116,9 @@
     <project path="external/nist-sip" name="platform/external/nist-sip" remote="aosp" revision="master" />
     <project path="external/node-sqlite-async" name="platform/external/node-sqlite-async" remote="caf" revision="ics_chocolate" />
     <project path="external/node-sqlite-sync" name="platform/external/node-sqlite-sync" remote="caf" revision="ics_chocolate" />
-    <project path="external/node" name="platform/external/node" remote="caf" revision="ics_chocolate" />
     <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="master" />
     <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="master" />
     <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
-    <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" />
-    <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="master" />
     <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="master" />
     <project path="external/ping" name="CyanogenMod/android_external_ping" />
     <project path="external/ping6" name="CyanogenMod/android_external_ping6" />
@@ -251,6 +246,7 @@
   <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
   <project path="external/clang" name="platform_external_clang" remote="icecold" revision="ics-devel" />
+  <project path="external/e2fsprogs" name="platform_external_e2fsprogs" remote="icecold" revision="ics-devel" />
   <project path="external/freetype" name="platform_external_freetype" remote="icecold" revision="master" />
   <project path="external/gtest" name="platform/external/gtest" remote="aosp" revision="master" />
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
@@ -258,6 +254,10 @@
   <project path="external/libphonenumber" name="platform_external_libphonenumber" remote="icecold" revision="ics_chocolate-caf" />
   <project path="external/libpng" name="external_libpng" remote="icecold" revision="master" />
   <project path="external/llvm" name="platform_external_llvm" remote="icecold" revision="ics-devel" />
+  <project path="external/lsof" name="platform_external_lsof" remote="icecold" revision="ics-devel" />
+  <project path="external/node" name="platform_external_node" remote="icecold" revision="ics_chocolate-caf" />
+  <project path="external/openvpn" name="platform_external_openvpn" remote="icecold" revision="ics-devel" />
+  <project path="external/oprofile" name="platform/external/oprofile" remote="icecold" revision="ics-devel" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="master" />
   <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
