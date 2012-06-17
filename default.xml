@@ -248,7 +248,7 @@
   <project path="external/clang" name="platform_external_clang" remote="icecold" revision="ics-devel" />
   <project path="external/e2fsprogs" name="platform_external_e2fsprogs" remote="icecold" revision="ics-devel" />
   <project path="external/freetype" name="platform_external_freetype" remote="icecold" revision="master" />
-  <project path="external/gtest" name="platform/external/gtest" remote="aosp" revision="master" />
+  <project path="external/gtest" name="platform_external_gtest" remote="icecold" revision="ics-devel" />
   <project path="external/icu4c" name="android_external_icu4c" remote="icecold" revision="ics" />
   <project path="external/jpeg" name="people/tomgall/libjpeg-turbo/libjpeg-turbo" remote="linaro" revision="android" />
   <project path="external/libphonenumber" name="platform_external_libphonenumber" remote="icecold" revision="ics_chocolate-caf" />
