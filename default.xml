@@ -192,7 +192,6 @@
     <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" remote="aosp" revision="master" />
     <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" remote="aosp" revision="master" />
     <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" remote="aosp" revision="master" />
-    <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" remote="aosp" revision="master" />
     <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" remote="aosp" revision="master" />
     <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" remote="aosp" revision="master" />
     <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" remote="aosp" revision="master" />
@@ -298,6 +297,7 @@
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="icecold" revision="ics"/>
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="icecold" revision="ics" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="icecold" revision="ics"/>
+  <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" remote="icecold" revision="ics" />
   <project path="system/bluetooth" name="android_system_bluetooth" remote="icecold" revision="ics"/>
   <project path="system/extras" name="platform_system_extras" remote="icecold" revision="ics-devel" />
   <project path="system/media" name="platform_system_media" remote="icecold" revision="ics-devel" />
