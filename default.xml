@@ -118,7 +118,6 @@
     <project path="external/node-sqlite-sync" name="platform/external/node-sqlite-sync" remote="caf" revision="ics_chocolate" />
     <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="master" />
     <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="master" />
-    <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
     <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="master" />
     <project path="external/ping" name="CyanogenMod/android_external_ping" />
     <project path="external/ping6" name="CyanogenMod/android_external_ping6" />
@@ -255,6 +254,7 @@
   <project path="external/llvm" name="platform_external_llvm" remote="icecold" revision="ics-devel" />
   <project path="external/lsof" name="platform_external_lsof" remote="icecold" revision="ics-devel" />
   <project path="external/node" name="platform_external_node" remote="icecold" revision="ics_chocolate-caf" />
+  <project path="external/openssl" name="platform_external_openssl" remote="icecold" revision="ics-devel" />
   <project path="external/openvpn" name="platform_external_openvpn" remote="icecold" revision="ics-devel" />
   <project path="external/oprofile" name="platform_external_oprofile" remote="icecold" revision="ics-devel" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="master" />
