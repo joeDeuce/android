@@ -127,7 +127,6 @@
     <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="master" />
     <project path="external/proguard" name="platform/external/proguard" remote="aosp" revision="master" />
     <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="master" />
-    <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" remote="aosp" revision="master" />
     <project path="external/quake" name="platform/external/quake" remote="aosp" revision="master" />
     <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="master" />
     <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
@@ -259,7 +258,6 @@
   <project path="external/openssl" name="platform_external_openssl" remote="icecold" revision="ics-devel" />
   <project path="external/openvpn" name="platform_external_openvpn" remote="icecold" revision="ics-devel" />
   <project path="external/oprofile" name="platform_external_oprofile" remote="icecold" revision="ics-devel" />
-  <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="master" />
   <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
   <project path="external/srec" name="platform_external_srec" remote="icecold" revision="ics-devel" />
