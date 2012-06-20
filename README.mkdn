@@ -4,9 +4,9 @@ Getting Started
 To get started with Android, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the TalonICS trees, use a command like this:
+To initialize your local repository using the Redemption trees, use a command like this:
 
-    repo init -u git://github.com/IceColdSandwich/android.git -b ics
+    repo init -u git://github.com/joeDeuce/android.git -b ics
 
 Then to sync up:
 
@@ -14,11 +14,4 @@ Then to sync up:
 
 To build:
 
-    . build/envsetup.sh
-    lunch htc_ace-eng
-    make -j4 lord
-
-OR
-
-    . vendor/lord/build.sh
-but change the script to your installed ccache path
+    vendor/lord/build.sh

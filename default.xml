@@ -15,6 +15,9 @@
     <remote name="icecold"
     fetch="http://github.com/IceColdSandwich/" />
 
+    <remote name="joe"
+    fetch="http://github.com/joeDeuce" />
+
     <remote name="caf"
     fetch="git://codeaurora.org/" />
 
@@ -229,7 +232,7 @@
 
   <project path="vendor/google" name="platform_vendor_google" remote="icecold" revision="ics"/>
   <project path="vendor/htc" name="platform_vendor_htc" remote="icecold" revision="ics"/>
-  <project path="vendor/lord" name="platform_vendor_lord" remote="icecold" revision="ics"/>
+  <project path="vendor/lord" name="platform_vendor_lord" remote="joe" revision="ics"/>
   <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="icecold" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="icecold" revision="ics" />
   <project path="vendor/qcom/opensource/v8" name="platform/vendor/qcom-opensource/v8" remote="caf" revision="ics_chocolate"/>
@@ -266,7 +269,7 @@
   <project path="external/v8" name="platform_external_v8" remote="icecold" revision="ics_chocolate-caf" />
   <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics"/>
   <project path="external/zlib" name="platform_external_zlib" remote="icecold" revision="ics-devel"/>
-  <project path="frameworks/base" name="android_frameworks_base" remote="icecold" revision="aokp"/>
+  <project path="frameworks/base" name="android_frameworks_base" remote="joe" revision="aojp"/>
   <project path="frameworks/ex" name="platform_frameworks_ex" remote="icecold" revision="ics-devel" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="icecold" revision="ics" />
   <project path="frameworks/compile/slang" name="android_frameworks_compile_slang" remote="icecold" revision="ics" />
@@ -289,8 +292,8 @@
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="icecold" revision="ics" />
   <project path="packages/apps/Music" name="android_packages_apps_Music" remote="icecold" revision="ics" />
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="icecold" revision="aokp" />
-  <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="icecold" revision="master" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="icecold" revision="aokp"/>
+  <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="joe" revision="aokp" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="joe" revision="aokp"/>
   <project path="packages/apps/SoundRecorder" name="platform_packages_apps_SoundRecorder" remote="icecold" revision="ics-devel" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="icecold" revision="ics" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="icecold" revision="ics"/>
