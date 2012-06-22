@@ -15,3 +15,6 @@ Then to sync up:
 To build:
 
     vendor/lord/build.sh
+
+Edit vendor/lord/build.sh to suit your needs... I have to make -j2 due
+to hardware limitations. :)
