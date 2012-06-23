@@ -15,6 +15,9 @@
     <remote name="icecold"
     fetch="http://github.com/IceColdSandwich/" />
 
+    <remote name="aokp"
+    fetch="http://github.com/AOKP/" />
+
     <remote name="caf"
     fetch="git://codeaurora.org/" />
 
@@ -315,6 +318,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
   <project path="vendor/tmobile/themes/BlackICS" name="vendor_tmobile_themes_BlackICS" remote="icecold" revision="master" />
+  <project path="vendor/tmobile/themes/Achromatic" name="android_vendor_tmobile_themes_Achromatic" remote="aokp" revision="ics" />
 
   <project path="external/chromium" name="platform_external_chromium" remote="icecold" revision="ics-devel" />
   <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics_chocolate-caf" />
