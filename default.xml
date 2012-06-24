@@ -28,7 +28,7 @@
     remote="github"
     sync-j="8" />
 
-  <project path="build" name="android_build" remote="icecold" revision="ics">
+  <project path="build" name="android_build" remote="joe" revision="ics">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="master" />
@@ -238,7 +238,6 @@
 
      
 
-  <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
   <project path="development" name="android_development" remote="icecold" revision="ics" />
   <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="icecold" revision="ics" />
@@ -315,6 +314,7 @@
   <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics_chocolate-caf" />
   <project path="vendor/qcom/opensource/webkit" name="platform/vendor/qcom-opensource/webkit" remote="caf" revision="ics_chocolate"/>  
 
+  <project path="bionic" name="bionic" remote="joe" revision="aokp" />
   <project path="frameworks/base" name="android_frameworks_base" remote="joe" revision="aojp"/>
   <project path="prebuilt" name="platform_prebuilt" remote="joe" revision="4.6.3" />
   <project path="device/htc/ace" name="android_device_htc_ace" remote="joe" revision="aokp" />
