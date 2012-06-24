@@ -298,7 +298,7 @@
   <project path="system/bluetooth" name="android_system_bluetooth" remote="icecold" revision="ics"/>
   <project path="system/extras" name="platform_system_extras" remote="icecold" revision="ics-devel" />
   <project path="system/media" name="platform_system_media" remote="icecold" revision="ics-devel" />
-  <project path="prebuilt" name="platform_prebuilt" remote="icecold" revision="ics-devel" />
+  <project path="prebuilt" name="platform_prebuilt" remote="joe" revision="4.6.3" />
   <project path="system/core" name="android_system_core" remote="icecold" revision="ics"/>
   <project path="libcore" name="platform_libcore" remote="icecold" revision="ics_chocolate-caf" />
 
