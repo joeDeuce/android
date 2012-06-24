@@ -314,7 +314,7 @@
   <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics_chocolate-caf" />
   <project path="vendor/qcom/opensource/webkit" name="platform/vendor/qcom-opensource/webkit" remote="caf" revision="ics_chocolate"/>  
   
-  <project path="vendor/tmobile/themes/Achromatic" name="AOKP/android_vendor_tmobile_themes_Achromatic" remote="gh" revision="ics" /> 
+  <project path="vendor/tmobile/themes/Achromatic" name="AOKP/android_vendor_tmobile_themes_Achromatic" remote="github" revision="ics" /> 
 
   <project path="bionic" name="bionic" remote="joe" revision="aokp" />
   <project path="frameworks/base" name="android_frameworks_base" remote="joe" revision="aojp"/>
