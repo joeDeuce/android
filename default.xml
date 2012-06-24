@@ -28,7 +28,7 @@
     remote="github"
     sync-j="8" />
 
-  <project path="build" name="android_build" remote="joe" revision="ics">
+  <project path="build" name="android_build" remote="joe" revision="aokp">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="master" />
