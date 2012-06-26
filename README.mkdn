@@ -4,7 +4,7 @@ Getting Started
 To get started with Android, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the TalonICS trees, use a command like this:
+To initialize your local repository using the IceColdSandwich's trees, use a command like this:
 
     repo init -u git://github.com/IceColdSandwich/android.git -b ics
 
@@ -18,7 +18,7 @@ To build:
     lunch htc_ace-eng
     make -j4 lord
 
-OR
+OR if you have ccache app installed than it's better to use this script:
 
     . vendor/lord/build.sh
-but change the script to your installed ccache path
+
