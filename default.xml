@@ -39,6 +39,7 @@
     <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="master" />
     <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="master" />
     <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="master" />
+    <project path="external/aac" name="platform/external/aac" remote="aosp" revision="master" />
     <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="master" />
     <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="master" />
     <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="master" />
@@ -73,6 +74,7 @@
     <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="master" />
     <project path="external/flac" name="platform/external/flac" remote="aosp" revision="master" />
     <project path="external/fsck_msdos" name="platform/external/fsck_msdos" remote="aosp" revision="master" />
+    <project path="external/gcc-demangle" name="platform/external/gcc-demangle" remote="aosp" revision="master" />
     <project path="external/genext2fs" name="platform/external/genext2fs" remote="aosp" revision="master" />
     <project path="external/giflib" name="platform/external/giflib" remote="aosp" revision="master" />
     <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" remote="aosp" revision="master" />
