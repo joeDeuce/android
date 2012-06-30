@@ -317,6 +317,7 @@
   <project path="hardware/qcom/media" name="hardware_qcom_media" remote="joe" revision="ics"/>
   <project path="vendor/lord" name="platform_vendor_lord" remote="joe" revision="ics"/>
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="joe" revision="aokp" />
+  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="joe" revision="ics" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="joe" revision="aokp"/>
   <project path="packages/wallpapers/Gotham" name="packages_wallpapers_Gotham" remote="joe" revision="aokp"/>
 
