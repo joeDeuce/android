@@ -323,7 +323,7 @@
   <project path="vendor/tmobile/themes/Achromatic" name="android_vendor_tmobile_themes_Achromatic" remote="aokp" revision="ics" />
 
   <project path="external/chromium" name="platform_external_chromium" remote="icecold" revision="ics-devel" />
-  <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics_devel" />
+  <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics-devel" />
   <project path="vendor/qcom/opensource/webkit" name="platform/vendor/qcom-opensource/webkit" remote="caf" revision="ics_chocolate"/>  
 
 </manifest>
