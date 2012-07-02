@@ -263,13 +263,13 @@
   <project path="external/openvpn" name="platform_external_openvpn" remote="icecold" revision="ics-devel" />
   <project path="external/oprofile" name="platform_external_oprofile" remote="icecold" revision="ics-devel" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="master" />
-  <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
+  <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics-devel"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
   <project path="external/srec" name="platform_external_srec" remote="icecold" revision="ics-devel" />
   <project path="external/stlport" name="android_external_stlport" remote="icecold" revision="ics"/>
   <project path="external/tremolo" name="platform_external_tremolo" remote="icecold" revision="ics-devel" />
-  <project path="external/v8" name="platform_external_v8" remote="icecold" revision="ics_chocolate-caf" />
-  <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics"/>
+  <project path="external/v8" name="platform_external_v8" remote="icecold" revision="ics-devel" />
+  <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics-devel"/>
   <project path="external/zlib" name="platform_external_zlib" remote="icecold" revision="ics-devel"/>
   <project path="frameworks/base" name="android_frameworks_base" remote="icecold" revision="aokp"/>
   <project path="frameworks/ex" name="platform_frameworks_ex" remote="icecold" revision="ics-devel" />
@@ -323,7 +323,7 @@
   <project path="vendor/tmobile/themes/Achromatic" name="android_vendor_tmobile_themes_Achromatic" remote="aokp" revision="ics" />
 
   <project path="external/chromium" name="platform_external_chromium" remote="icecold" revision="ics-devel" />
-  <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics_chocolate-caf" />
+  <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics_devel" />
   <project path="vendor/qcom/opensource/webkit" name="platform/vendor/qcom-opensource/webkit" remote="caf" revision="ics_chocolate"/>  
 
 </manifest>
