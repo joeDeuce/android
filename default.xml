@@ -18,6 +18,9 @@
     <remote name="joe"
     fetch="http://github.com/joeDeuce" />
 
+    <remote name="aokp"
+    fetch="http://github.com/AOKP/" />
+
     <remote name="caf"
     fetch="git://codeaurora.org/" />
 
@@ -179,7 +182,6 @@
     <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="master" />
     <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="master" />
     <project path="packages/apps/Stk" name="platform/packages/apps/Stk" remote="aosp" revision="master" />
-    <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
     <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="master" />
     <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="master" />
     <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer"  remote="aosp" revision="master" />
@@ -221,7 +223,6 @@
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
-  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="gingerbread"/>
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github" revision="ics"/>
 
   <project path="vendor/google" name="aospX/platform_vendor_google" remote="github" revision="ics-devel"/>
@@ -253,13 +254,13 @@
   <project path="external/openssl" name="platform_external_openssl" remote="icecold" revision="ics-devel" />
   <project path="external/openvpn" name="platform_external_openvpn" remote="icecold" revision="ics-devel" />
   <project path="external/oprofile" name="platform_external_oprofile" remote="icecold" revision="ics-devel" />
-  <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
+  <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics-devel"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
   <project path="external/srec" name="platform_external_srec" remote="icecold" revision="ics-devel" />
   <project path="external/stlport" name="android_external_stlport" remote="icecold" revision="ics"/>
   <project path="external/tremolo" name="platform_external_tremolo" remote="icecold" revision="ics-devel" />
-  <project path="external/v8" name="platform_external_v8" remote="icecold" revision="ics_chocolate-caf" />
-  <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics"/>
+  <project path="external/v8" name="platform_external_v8" remote="icecold" revision="ics-devel" />
+  <project path="external/webkit" name="android_external_webkit" remote="icecold" revision="ics-devel"/>
   <project path="external/zlib" name="platform_external_zlib" remote="icecold" revision="ics-devel"/>
   <project path="frameworks/ex" name="platform_frameworks_ex" remote="icecold" revision="ics-devel" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="icecold" revision="ics" />
@@ -281,6 +282,7 @@
   <project path="packages/apps/Music" name="android_packages_apps_Music" remote="icecold" revision="ics" />
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="icecold" revision="aokp" />
   <project path="packages/apps/SoundRecorder" name="platform_packages_apps_SoundRecorder" remote="icecold" revision="ics-devel" />
+  <project path="packages/apps/Superuser" name="platform_packages_apps_Superuser" remote="icecold" revision="ics" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="icecold" revision="ics"/>
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="icecold" revision="ics"/>
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="icecold" revision="ics" />
@@ -300,9 +302,10 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
   <project path="vendor/tmobile/themes/BlackICS" name="vendor_tmobile_themes_BlackICS" remote="icecold" revision="master" />
+  <project path="vendor/tmobile/themes/Achromatic" name="android_vendor_tmobile_themes_Achromatic" remote="aokp" revision="ics" />
 
   <project path="external/chromium" name="platform_external_chromium" remote="icecold" revision="ics-devel" />
-  <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics_chocolate-caf" />
+  <project path="external/libxml2" name="platform_external_libxml2" remote="icecold" revision="ics-devel" />
   <project path="vendor/qcom/opensource/webkit" name="platform/vendor/qcom-opensource/webkit" remote="caf" revision="ics_chocolate"/>  
   
   <project path="vendor/tmobile/themes/Achromatic" name="AOKP/android_vendor_tmobile_themes_Achromatic" remote="github" revision="ics" /> 
