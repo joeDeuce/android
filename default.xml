@@ -319,6 +319,7 @@
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="joe" revision="ics" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="joe" revision="aokp"/>
   <project path="packages/wallpapers/Gotham" name="packages_wallpapers_Gotham" remote="joe" revision="aokp"/>
+  <project path="packages/apps/OTA" name="packages_apps_OTA" remote="joe" revision="ics"/>
 
 
 </manifest>
