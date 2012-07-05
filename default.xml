@@ -321,9 +321,9 @@
   <project path="vendor/lord" name="platform_vendor_lord" remote="joe" revision="aojp" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="joe" revision="aojp" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="joe" revision="aojp" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="joe" revision="aojp "/>
-  <project path="packages/wallpapers/Gotham" name="packages_wallpapers_Gotham" remote="joe" revision="aojp "/>
-  <project path="packages/apps/OTA2" name="packages_apps_OTA2" remote="joe" revision="aojp "/>
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="joe" revision="aojp" />
+  <project path="packages/wallpapers/Gotham" name="packages_wallpapers_Gotham" remote="joe" revision="aojp" />
+  <project path="packages/apps/OTA2" name="packages_apps_OTA2" remote="joe" revision="aojp" />
 
 
 </manifest>
