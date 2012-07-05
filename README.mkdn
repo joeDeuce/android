@@ -6,7 +6,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the Redemption trees, use a command like this:
 
-    repo init -u git://github.com/joeDeuce/android.git -b ics
+    repo init -u git://github.com/joeDeuce/android.git -b aojp
 
 Then to sync up:
 

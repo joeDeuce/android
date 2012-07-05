@@ -31,7 +31,7 @@
     remote="github"
     sync-j="8" />
 
-  <project path="build" name="android_build" remote="joe" revision="aokp">
+  <project path="build" name="android_build" remote="joe" revision="aojp">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="master" />
@@ -166,6 +166,7 @@
     <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="master" />
     <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
     <project path="ndk" name="platform/ndk" remote="aosp" revision="master"/>
+    <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
     <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="master" />
     <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" remote="aosp" revision="master" />
     <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="master" />
@@ -182,7 +183,6 @@
     <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="master" />
     <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="master" />
     <project path="packages/apps/Stk" name="platform/packages/apps/Stk" remote="aosp" revision="master" />
-    <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
     <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="master" />
     <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="master" />
     <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer"  remote="aosp" revision="master" />
@@ -224,7 +224,6 @@
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
-  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="gingerbread"/>
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github" revision="ics"/>
 
   <project path="vendor/google" name="aospX/platform_vendor_google" remote="github" revision="ics-devel"/>
@@ -284,6 +283,7 @@
   <project path="packages/apps/Music" name="android_packages_apps_Music" remote="icecold" revision="ics" />
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="icecold" revision="aokp" />
   <project path="packages/apps/SoundRecorder" name="platform_packages_apps_SoundRecorder" remote="icecold" revision="ics-devel" />
+  <project path="packages/apps/Superuser" name="platform_packages_apps_Superuser" remote="icecold" revision="ics" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="icecold" revision="ics"/>
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="icecold" revision="ics"/>
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="icecold" revision="ics" />
@@ -312,18 +312,18 @@
   <project path="vendor/tmobile/themes/Achromatic" name="AOKP/android_vendor_tmobile_themes_Achromatic" remote="github" revision="ics" /> 
 
   <project path="packages/apps/Launcher2" name="aospX/platform_packages_apps_Launcher2" remote="github" revision="ics-devel" />
-  <project path="bionic" name="bionic" remote="joe" revision="aokp" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="joe" revision="aojp"/>
-  <project path="prebuilt" name="platform_prebuilt" remote="joe" revision="4.6.3" />
-  <project path="device/htc/ace" name="android_device_htc_ace" remote="joe" revision="aokp" />
-  <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="joe" revision="aokp" />
-  <project path="hardware/qcom/media" name="hardware_qcom_media" remote="joe" revision="ics"/>
-  <project path="vendor/lord" name="platform_vendor_lord" remote="joe" revision="ics"/>
-  <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="joe" revision="aokp" />
-  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="joe" revision="ics" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="joe" revision="aokp"/>
-  <project path="packages/wallpapers/Gotham" name="packages_wallpapers_Gotham" remote="joe" revision="aokp"/>
-  <project path="packages/apps/OTA" name="packages_apps_OTA" remote="joe" revision="ics"/>
 
+  <project path="bionic" name="bionic" remote="joe" revision="aojp" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="joe" revision="aojp" />
+  <project path="prebuilt" name="platform_prebuilt" remote="joe" revision="aojp" />
+  <project path="device/htc/ace" name="android_device_htc_ace" remote="joe" revision="aojp" />
+  <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="joe" revision="aojp" />
+  <project path="hardware/qcom/media" name="hardware_qcom_media" remote="joe" revision="aojp" />
+  <project path="vendor/lord" name="platform_vendor_lord" remote="joe" revision="aojp" />
+  <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="joe" revision="aojp" />
+  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="joe" revision="aojp" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="joe" revision="aojp" />
+  <project path="packages/wallpapers/Gotham" name="packages_wallpapers_Gotham" remote="joe" revision="aojp" />
+  <project path="packages/apps/OTA2" name="packages_apps_OTA2" remote="joe" revision="aojp" />
 
 </manifest>
