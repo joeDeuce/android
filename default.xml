@@ -255,7 +255,7 @@
   <project path="external/openssl" name="platform_external_openssl" remote="icecold" revision="ics-devel" />
   <project path="external/openvpn" name="platform_external_openvpn" remote="icecold" revision="ics-devel" />
   <project path="external/oprofile" name="platform_external_oprofile" remote="icecold" revision="ics-devel" />
-  <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics_chocolate-caf"/>
+  <project path="external/skia" name="android_external_skia" remote="icecold" revision="ics"/>
   <project path="external/sqlite" name="platform_external_sqlite" remote="icecold" revision="ics"/>
   <project path="external/srec" name="platform_external_srec" remote="icecold" revision="ics-devel" />
   <project path="external/stlport" name="android_external_stlport" remote="icecold" revision="ics"/>
