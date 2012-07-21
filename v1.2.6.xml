@@ -109,7 +109,7 @@
   <project name="packages_apps_ROMControl" path="packages/apps/ROMControl" remote="joe" revision="eb72eacfff590aa1e2ead490b3af4963a68f17f3"/>
   <project name="packages_apps_Settings" path="packages/apps/Settings" remote="joe" revision="02084a1d81a3594f856ac6a984fae5c355b2fc33"/>
   <project name="packages_providers_TelephonyProvider" path="packages/providers/TelephonyProvider" remote="icecold" revision="10deb1b4b6daaa29e8209ddd1e2ef3fca7932cf4"/>
-  <project name="packages_wallpapers_Gotham" path="packages/wallpapers/Gotham" remote="joe" revision="ebe6739e1a3c1f3b0336a72674d17c94c1c1d1fb"/>
+  <project name="packages_wallpapers_Gotham" path="packages/wallpapers/Gotham" remote="joe" revision="57e2160388b10024b9a70b9138d6a55e44f402ac"/>
   <project name="people/tomgall/libjpeg-turbo/libjpeg-turbo" path="external/jpeg" remote="linaro" revision="52969c9b2cf9db0162bc1c1e9b9f27bd362908ba"/>
   <project name="platform/abi/cpp" path="abi/cpp" remote="aosp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/external/aac" path="external/aac" remote="aosp" revision="2bda038c163298531d47394bc2c09e1409c5d0db"/>
